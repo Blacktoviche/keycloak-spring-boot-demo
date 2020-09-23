@@ -23,8 +23,6 @@ But in my case when you have several spring boot apps in a tomcat server it's no
  # Run
  Import this project in IntelliJ IDEA or you can run it using command line
  
-## Installation
-
 ```bash
 # Clone this repository
 git clone https://github.com/blacktoviche/keycloak-spring-boot-demo
