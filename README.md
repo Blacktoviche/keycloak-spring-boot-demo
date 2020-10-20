@@ -38,7 +38,7 @@ mvn package
 mvn spring-boot:run
 ``` 
 
-Now you can use (https://insomnia.rest)[https://insomnia.rest] to test the rest api.
+Now you can use [Insomnia](https://insomnia.rest) to test the rest api.
 Import Insomnia json file in Insomnia app and use the ready test methods
 
 ## License
